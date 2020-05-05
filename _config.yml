@@ -10,7 +10,7 @@ title:       Han's blog
 email:       'ihan128@naver.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://ihan12389.github.io' # The base hostname & protocol for your site
+url:         "https://ihan12389.github.io" # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
 instagram:   ''
