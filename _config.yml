@@ -7,14 +7,14 @@
 
 # Site settings
 title:       Han's blog
-email:       'ihan128@naver.com'
+email:       "ihan128@naver.com"
 description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
+baseurl:     "" # The subpath of your site, e.g. /blog
 url:         "https://ihan12389.github.io" # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
-instagram:   ''
-facebook:    ''
+twitter:     ""
+github:      ""
+instagram:   ""
+facebook:    ""
 
 markdown:  kramdown
 permalink: pretty
