@@ -46,3 +46,9 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+
+discus_identifier: leehan128-github-io
+
+comments : true
+
+provider : "disqus"
